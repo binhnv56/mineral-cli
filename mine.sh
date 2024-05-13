@@ -39,5 +39,5 @@ while true; do
 		mineral_id=$(run_mineral)
 		echo "Started Mineral. Looping to check status of Mineral..."
     fi
-    sleep 10
+    sleep 1
 done
